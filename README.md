@@ -62,7 +62,7 @@ Follow these steps to set up the project on your local machine:
 
 2. Set up the project:
 
-  - Navigate to the project folder: `cd blog-react-app`
+  - Navigate to the project folder: `cd Blog-app-main`
   - Install dependencies: `npm install`
   - Set up environment variables: Create a .env file based on .env.sample file.
   - Start the client development server: `npm run dev`
